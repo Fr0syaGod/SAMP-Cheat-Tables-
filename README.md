@@ -19,3 +19,5 @@ Cheat engine table SAMP R1-R4
 
 **I will not deal with documentation on functions, I wrote only those that really need to be able to change**
 **Not all functions are presented in the description, there are many more of them and the possibilities are endless**
+### You need a Cheat Engine
+  [Cheat Engine 7.1](https://github.com/cheat-engine/cheat-engine/releases/tag/7.1).
