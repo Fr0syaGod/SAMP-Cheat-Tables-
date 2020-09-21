@@ -9,12 +9,12 @@ Cheat engine table SAMP R1-R4
 ## Documentation
 ### Using functions
 #### Use set hot keys
-* Cars can drive on water **[byte] ***value 0/1 - off/non***
-* Big jump **[byte] ***value 0/1 - off/non***
-* BMX big jump **[byte] ***value 0/1 - off/non***
-* infinity ammo/no reload **[byte] ***value 0/1 - off/non***
-* infinity oxygen **[byte] ***value 0/1 - off/non***
-* infinity armor **[byte] ***value 0/1 - off/non***
+* Cars can drive on water **[byte]** ***value 0/1 - off/on***
+* Big jump **[byte]** ***value 0/1 - off/on***
+* BMX big jump **[byte]** ***value 0/1 - off/on***
+* infinity ammo/no reload **[byte]** ***value 0/1 - off/on***
+* infinity oxygen **[byte]** ***value 0/1 - off/on***
+* infinity armor **[byte]** ***value 0/1 - off/on***
 * SetWeather use value 0-17
 
 **I will not deal with documentation on functions, I wrote only those that really need to be able to change
