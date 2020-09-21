@@ -17,5 +17,5 @@ Cheat engine table SAMP R1-R4
 * infinity armor **[byte]** ***value 0/1 - off/on***
 * SetWeather use value 0-17
 
-**I will not deal with documentation on functions, I wrote only those that really need to be able to change
-
+**I will not deal with documentation on functions, I wrote only those that really need to be able to change**
+**Not all functions are presented in the description, there are many more of them and the possibilities are endless**
