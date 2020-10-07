@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="24">
+  <Forms>
+    <CETrainer Class="TTrainerForm" Encoding="Ascii85">#g/Kv,C}]12fX,NM/r6*LoXGos.Y,.8DngtTw:UVK[wVrN7;y_j6J)p;-8WrEJ.5?zeYbqFZ}F.[SjR@Yd%89FR+5rY_(N/T:0zNdHFs6:dtFb0f0MsDLrxB#0z7XyhO;3U_PlMWCSlU);-AaFua.$/@y0^v_xS%wKrja:gf-:XL/]9qL{3q6oj!iT_6/P5XLySr}*xxX6LJbvtu)tOUTu.Kl0AM/_k,wrarjO7Rd1v2xF62z)jl##sOM8+u#)$+UML79NvUK!vKh]X+r81#N=FVSQBe%xb](5whGuy:rq?Ak!rOD08gwYUJRqUb;;cui7}cD584DZBMPr#j]gDSSiKK#VKj[MVK]xSJ3=!iz#!kXS9oXlp),Ht;(?(WfJwCi1d;#Lg*xdnqi=?/];$Qs9[MLQH*)yDrS)sd+4rX2-i!K)Sl.l*3L{S9M%c/xGiGRovvQLXbM/VQmwOu:/Ruy2cvrACd{aJ--3z.0jZ*a0hI4QNu_F3.xwhuOGTi@JEx7OP!M=dmx_*R:c^3P@1Ka)^Iv+MRO_1GRRwIj5FJgVWEekt9[![/!CtgCFn/zpF5AHlZJ,(NjI-Iyedt7oG)A_D?:hnKsgg)CKwj]{NvK@{_=ccl7^#CftI3xDwC_QcUcb$t1XzJ!ev^kn;Ol5UhA]bL0n?J+3OY}ha$$tROOwW#qq2R*I+iRui!H-VirMHT)U/Dyw:lxq$k+(1FQ?He#Fwg4gFecOMEn*MbIeXu1OZEI+l)j+lbTr$!5DXuOw]8}jzEM1qcX^BNA5F/?Idinmoe1?Tw?h;Bqj$VWo:Lj=@@7d.aki/P#y*4_a87xLv$5qoOF6qo!IY[)7yFpi!!bJ[!8{hf/*dJBsF:%rOy,P+We4+c2jb:!HG^joCPq!@dr6XXDf?Nwqp(M9cIFqb4{Wqve0K-FNr!JslB#zUS:WvN-lc.7N((AO4zBKiKif99:[UF1N/9jzN?e_;!pa]bs[n3To^D@y;MF{huO,KmS36EeYgE]jDX]pQVZTUW(r^eR,M2AkG%},h:P0x}mG%RLmVYemvy{ECleXRJDN/MM9OpaTqp{K;eOBRcR^djb,-}bFRqx4C=-Rpv]4xkDmtwxA)AFPITk2!Eqbn@+k;!qh99-(@ig]{K75_sGn={_YO.sed^i$dH[!j</CETrainer>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>5177</ID>
+      <Description>"SED CHEATING"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>808040</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>5178</ID>
+          <Description>"Tell us thanks"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>300</ID>
+      <Description>"PED func"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>0000FF</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"CPED"</Description>
+          <LastState Value="328990752" RealAddress="00B6F5F0"/>
+          <Color>FF0000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0xB6F5F0 </Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"health"</Description>
+          <LastState Value="100" RealAddress="139C0560"/>
+          <Color>0000FF</Color>
+          <VariableType>Float</VariableType>
+          <Address>00B6F5F0</Address>
+          <Offsets>
+            <Offset>540</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Armor"</Description>
+          <LastState Value="0" RealAddress="139C0568"/>
+          <Color>FF0000</Color>
+          <VariableType>Float</VariableType>
+          <Address>00B6F5F0</Address>
+          <Offsets>
+            <Offset>548</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>297</ID>
+          <Description>"X"</Description>
+          <LastState Value="2341.77002" RealAddress="137A3198"/>
+          <Color>800080</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xB6F5F0 </Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>298</ID>
+          <Description>"Y"</Description>
+          <LastState Value="1422.589966" RealAddress="137A319C"/>
+          <Color>800080</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xB6F5F0 </Address>
+          <Offsets>
+            <Offset>34</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>299</ID>
+          <Description>"Z"</Description>
+          <LastState Value="42.8203125" RealAddress="137A31A0"/>
+          <Color>800080</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xB6F5F0 </Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>335</ID>
+          <Description>"Dialog window"</Description>
+          <Color>FFFF00</Color>
+          <VariableType>String</VariableType>
+          <Length>1000</Length>
+          <Unicode>0</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"san_andreas_multiplayer.dll"+0020DFAC</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>34</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5173</ID>
+          <Description>"stamina"</Description>
+          <LastState Value="1148829696" RealAddress="00B793D8"/>
+          <Color>40FF00</Color>
+          <VariableType>8 Bytes</VariableType>
+          <Address>0xB793D8</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>44</ID>
+      <Description>"Car func"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>8080FF</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"Car X"</Description>
+          <Color>FF0080</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"Car Y"</Description>
+          <Color>FF0080</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>34</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"Car Z"</Description>
+          <Color>FF0080</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>38</ID>
+          <Description>"X rot grad"</Description>
+          <Color>FF0000</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xBA18FC</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"Y rat grad"</Description>
+          <Color>FF0000</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>4</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>40</ID>
+          <Description>"Z rat grad"</Description>
+          <Color>FF0000</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>41</ID>
+          <Description>"X rat look"</Description>
+          <Color>FF0000</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>10</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>42</ID>
+          <Description>"Y rat look"</Description>
+          <Color>FF0000</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>14</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>43</ID>
+          <Description>"Z rat look"</Description>
+          <Color>FF0000</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>18</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"Driver"</Description>
+          <Color>00FFFF</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>460</Offset>
+          </Offsets>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>49</Key>
+              </Keys>
+              <Value>208863264</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>35</ID>
+          <Description>"2nd pas"</Description>
+          <Color>808000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>464</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"3d pas"</Description>
+          <Color>808000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>46C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description>"4d pas"</Description>
+          <Color>808000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0xBA18FC </Address>
+          <Offsets>
+            <Offset>470</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"CVehicle"</Description>
+          <LastState Value="0" RealAddress="00BA18FC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0xBA18FC </Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"Vehicle Health"</Description>
+          <LastState Value="7.266764792E-26" RealAddress="139C04E0"/>
+          <Color>008000</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xB6F980</Address>
+          <Offsets>
+            <Offset>4C0</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>337</ID>
+      <Description>"Give gun"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>400000</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>178</ID>
+          <Description>"Deagle value 24"</Description>
+          <LastState Value="24" RealAddress="139C05F8"/>
+          <Color>00FF00</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00B7CD98</Address>
+          <Offsets>
+            <Offset>5D8</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>173</ID>
+              <Description>"Max ammo 7"</Description>
+              <LastState Value="7" RealAddress="139C0600"/>
+              <Color>00FF00</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00B7CD98</Address>
+              <Offsets>
+                <Offset>5E0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>174</ID>
+              <Description>"Full ammo"</Description>
+              <LastState Value="250" RealAddress="139C0604"/>
+              <Color>00FF00</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00B7CD98</Address>
+              <Offsets>
+                <Offset>5E4</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>338</ID>
+      <Description>"MISC"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>138</ID>
+          <Description>"SED GOD MODE"</Description>
+          <LastState Value="89 96 40 05 00 00" RealAddress="004B331F"/>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>0012F2</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>6</ByteLength>
+          <Address>4B331F</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>112</Key>
+              </Keys>
+              <Value>90 90 90 90 90 90</Value>
+              <ID>0</ID>
+              <ActivateSound>Activate</ActivateSound>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>113</Key>
+              </Keys>
+              <Value>89 96 40 05 00 00</Value>
+              <ID>1</ID>
+              <ActivateSound>Deactivate</ActivateSound>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>29</ID>
+          <Description>"God Mode scripts"</Description>
+          <LastState/>
+          <Color>D1CD27</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+
+label(back)
+label(back2)
+label(back3)
+alloc(newmem,50)
+alloc(newmem2,50)
+alloc(newmem3,50)
+alloc(newmem4,50)
+label(back4)
+
+newmem:
+mov [eax+00000540],43480000
+fld dword ptr [eax+00000540]
+jmp back
+
+grand_theft_auto_san_andreas.dll+18929E:
+jmp newmem
+nop
+back:
+
+newmem2:
+mov [00b793e0],447A0000
+fld [00b793e0]
+jmp back2
+
+grand_theft_auto_san_andreas.dll+159E07:
+jmp newmem2
+nop
+back2:
+
+newmem3:
+mov [ecx+000004C0],(Float)1000
+fld dword ptr [ecx+000004C0]
+jmp back3
+
+"grand_theft_auto_san_andreas.dll"+15BFC5:
+jmp newmem3
+nop
+back3:
+
+newmem4:
+mov [eax+00000548],(Float)100
+fld dword ptr [eax+00000548]
+jmp back4
+
+"grand_theft_auto_san_andreas.dll"+1890CB:
+jmp newmem4
+nop
+back4:
+
+"grand_theft_auto_san_andreas.dll"+569178:
+dd 1
+
+"grand_theft_auto_san_andreas.dll"+77CEE4:
+dd 1
+
+"grand_theft_auto_san_andreas.dll"+77CEE6:
+dd 1
+
+[DISABLE]
+dealloc(newmem)
+dealloc(newmem2)
+dealloc(newmem3)
+dealloc(newmem4)
+grand_theft_auto_san_andreas.dll+18929E:
+fld dword ptr [eax+00000540]
+grand_theft_auto_san_andreas.dll+159E07:
+fld [00b793e0]
+"grand_theft_auto_san_andreas.dll"+15BFC5:
+fld dword ptr [ecx+000004C0]
+"grand_theft_auto_san_andreas.dll"+1890CB:
+fld dword ptr [eax+00000548]
+"grand_theft_auto_san_andreas.dll"+77CEE6:
+dd 0
+"grand_theft_auto_san_andreas.dll"+77CEE4:
+dd 0
+"grand_theft_auto_san_andreas.dll"+569178:
+dd 0
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>336</ID>
+          <Description>"Gravity"</Description>
+          <LastState Value="1006834287" RealAddress="00863984"/>
+          <Color>408080</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0x863984</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>52</Key>
+              </Keys>
+              <Value>0,000800000038</Value>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>53</Key>
+              </Keys>
+              <Value>1006834287</Value>
+              <ID>1</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>339</ID>
+          <Description>"Nop's health"</Description>
+          <LastState Value="100" RealAddress="139C0560"/>
+          <Color>8000FF</Color>
+          <VariableType>Float</VariableType>
+          <Address>00B6F5F0</Address>
+          <Offsets>
+            <Offset>540</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5166</ID>
+          <Description>"GameSpeed"</Description>
+          <LastState/>
+          <Color>FF00FF</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[Enable]
+LUACALL(speedhack_setSpeed(1.0))
+
+[Disable]
+LUACALL(speedhack_setSpeed(5.0))
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5167</ID>
+          <Description>"infinity armor"</Description>
+          <LastState/>
+          <Color>EC0D39</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+
+alloc(newmem,2048)
+label(code)
+
+newmem:
+mov [eax+00000548],(Float)100
+fld dword ptr [eax+00000548]
+jmp code
+
+"grand_theft_auto_san_andreas.dll"+1890CB:
+jmp newmem
+nop
+code:
+
+ 
+ 
+[DISABLE]
+dealloc(newmem)
+"grand_theft_auto_san_andreas.dll"+1890CB:
+fld dword ptr [eax+00000548]
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5171</ID>
+          <Description>"infinity oxygen"</Description>
+          <LastState Value="0" RealAddress="0096916E"/>
+          <Color>A00000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>0x96916E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5172</ID>
+          <Description>"infinity ammo/no reload"</Description>
+          <LastState Value="0" RealAddress="0096916E"/>
+          <Color>A00000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>0x96916E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5168</ID>
+          <Description>"Money"</Description>
+          <LastState Value="0" RealAddress="00B7CE50"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0xB7CE50</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5169</ID>
+          <Description>"BMX big jump"</Description>
+          <LastState Value="0" RealAddress="00969161"/>
+          <Color>800000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>0x969161</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5170</ID>
+          <Description>"Big jump"</Description>
+          <LastState Value="0" RealAddress="0096916C"/>
+          <Color>A00000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>0x96916C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5174</ID>
+          <Description>"Cars can drive on water"</Description>
+          <LastState Value="0" RealAddress="00969152"/>
+          <Color>FFFF00</Color>
+          <VariableType>Byte</VariableType>
+          <Address>0x969152</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5175</ID>
+          <Description>"SetWeather 0-17"</Description>
+          <LastState Value="1.401298464E-45" RealAddress="00C81320"/>
+          <Color>C080FF</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xC81320</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5176</ID>
+          <Description>"Slap up/down"</Description>
+          <LastState Value="42.8203125" RealAddress="137A31A0"/>
+          <Color>800040</Color>
+          <VariableType>Float</VariableType>
+          <Address>0xB6F5F0 </Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>50</Key>
+              </Keys>
+              <Value>19.08885956</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5179</ID>
+          <Description>"NoRecoil"</Description>
+          <LastState/>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : gta_sa.exe
+  Version: 
+  Date   : 2020-09-21
+  Author : sr_team
+
+  This script does blah blah blah
+}
+
+define(address,"gta_sa.exe"+340460)
+define(bytes,D8 48 2C 66 A1 A8 F1 B6 00)
+
+[ENABLE]
+
+assert(address,bytes)
+alloc(newmem,$1000)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  mov ax,[gta_sa.exe+76F1A8]
+  jmp return
+
+address:
+  jmp newmem
+  nop
+  nop
+  nop
+  nop
+return:
+
+[DISABLE]
+
+address:
+  db bytes
+  // fmul dword ptr [eax+2C]
+  // mov ax,[gta_sa.exe+76F1A8]
+
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gta_sa.exe"+340460
+
+"gta_sa.exe"+340438: DD D8                    -  fstp st(0)
+"gta_sa.exe"+34043A: F6 C4 05                 -  test ah,05
+"gta_sa.exe"+34043D: 7A 08                    -  jp gta_sa.exe+340447
+"gta_sa.exe"+34043F: D9 05 24 86 85 00        -  fld dword ptr [gta_sa.exe+458624]
+"gta_sa.exe"+340445: EB 0F                    -  jmp gta_sa.exe+340456
+"gta_sa.exe"+340447: D9 43 08                 -  fld dword ptr [ebx+08]
+"gta_sa.exe"+34044A: D8 3D 14 61 8D 00        -  fdivr dword ptr [gta_sa.exe+4D6114]
+"gta_sa.exe"+340450: D8 0D 3C 8B 85 00        -  fmul dword ptr [gta_sa.exe+458B3C]
+"gta_sa.exe"+340456: D8 4C 24 1C              -  fmul dword ptr [esp+1C]
+"gta_sa.exe"+34045A: 8B 85 80 04 00 00        -  mov eax,[ebp+00000480]
+// ---------- INJECTING HERE ----------
+"gta_sa.exe"+340460: D8 48 2C                 -  fmul dword ptr [eax+2C]
+"gta_sa.exe"+340463: 66 A1 A8 F1 B6 00        -  mov ax,[gta_sa.exe+76F1A8]
+// ---------- DONE INJECTING  ----------
+"gta_sa.exe"+340469: 66 3D 35 00              -  cmp ax,0035
+"gta_sa.exe"+34046D: D8 0D 10 61 8D 00        -  fmul dword ptr [gta_sa.exe+4D6110]
+"gta_sa.exe"+340473: D9 5C 24 1C              -  fstp dword ptr [esp+1C]
+"gta_sa.exe"+340477: 0F 84 AE 00 00 00        -  je gta_sa.exe+34052B
+"gta_sa.exe"+34047D: 66 3D 37 00              -  cmp ax,0037
+"gta_sa.exe"+340481: 0F 84 A4 00 00 00        -  je gta_sa.exe+34052B
+"gta_sa.exe"+340487: 66 3D 31 00              -  cmp ax,0031
+"gta_sa.exe"+34048B: 8D 84 24 84 00 00 00     -  lea eax,[esp+00000084]
+"gta_sa.exe"+340492: 75 1E                    -  jne gta_sa.exe+3404B2
+"gta_sa.exe"+340494: 50                       -  push eax
+}
+</AssemblerScript>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Health</Description>
+      <Address>00000000</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>14</Byte>
+        <Byte>8B</Byte>
+        <Byte>54</Byte>
+        <Byte>24</Byte>
+        <Byte>14</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>96</Byte>
+        <Byte>40</Byte>
+        <Byte>05</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>74</Byte>
+        <Byte>74</Byte>
+        <Byte>83</Byte>
+        <Byte>7D</Byte>
+        <Byte>0C</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Armor</Description>
+      <Address>00000000</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>D8</Byte>
+        <Byte>66</Byte>
+        <Byte>04</Byte>
+      </Before>
+      <Actual>
+        <Byte>D9</Byte>
+        <Byte>9F</Byte>
+        <Byte>48</Byte>
+        <Byte>05</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>5F</Byte>
+        <Byte>C7</Byte>
+        <Byte>46</Byte>
+        <Byte>04</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Ammo</Description>
+      <Address>00000000</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>83</Byte>
+        <Byte>3E</Byte>
+        <Byte>28</Byte>
+        <Byte>75</Byte>
+        <Byte>03</Byte>
+      </Before>
+      <Actual>
+        <Byte>FF</Byte>
+        <Byte>4E</Byte>
+        <Byte>0C</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>46</Byte>
+        <Byte>08</Byte>
+        <Byte>85</Byte>
+        <Byte>C0</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Ammo store up</Description>
+      <Address>00000000</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>85</Byte>
+        <Byte>C0</Byte>
+        <Byte>7E</Byte>
+        <Byte>04</Byte>
+        <Byte>48</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>46</Byte>
+        <Byte>08</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>46</Byte>
+        <Byte>0C</Byte>
+        <Byte>85</Byte>
+        <Byte>C0</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Vehicle Damage</Description>
+      <Address>00000000</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>AE</Byte>
+        <Byte>C0</Byte>
+        <Byte>04</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>D9</Byte>
+        <Byte>9E</Byte>
+        <Byte>C0</Byte>
+        <Byte>04</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>A0</Byte>
+        <Byte>64</Byte>
+        <Byte>91</Byte>
+        <Byte>96</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov ecx,[ecx+08]</Description>
+      <Address>00000000</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>71</Byte>
+        <Byte>04</Byte>
+        <Byte>89</Byte>
+        <Byte>72</Byte>
+        <Byte>04</Byte>
+      </Before>
+      <Actual>
+        <Byte>8B</Byte>
+        <Byte>49</Byte>
+        <Byte>08</Byte>
+      </Actual>
+      <After>
+        <Byte>89</Byte>
+        <Byte>4A</Byte>
+        <Byte>08</Byte>
+        <Byte>5E</Byte>
+        <Byte>C3</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Health 2</Description>
+      <Address>00000000</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>B7</Byte>
+        <Byte>9C</Byte>
+        <Byte>07</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>D9</Byte>
+        <Byte>86</Byte>
+        <Byte>40</Byte>
+        <Byte>05</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>83</Byte>
+        <Byte>C4</Byte>
+        <Byte>38</Byte>
+        <Byte>D8</Byte>
+        <Byte>B6</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of fld dword ptr [eax+00000540]</Description>
+      <Address>00000000</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>86</Byte>
+        <Byte>98</Byte>
+        <Byte>CD</Byte>
+        <Byte>B7</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>D9</Byte>
+        <Byte>80</Byte>
+        <Byte>40</Byte>
+        <Byte>05</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>E8</Byte>
+        <Byte>97</Byte>
+        <Byte>88</Byte>
+        <Byte>29</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+  <LuaScript>messageDialog('Auhror:jkee',2,3)
+shellExecute('https://vk.com/id435152241')
+
+</LuaScript>
+  <DisassemblerComments>
+    <DisassemblerComment>
+      <Address>02BD0000</Address>
+      <Comment>je</Comment>
+    </DisassemblerComment>
+  </DisassemblerComments>
+</CheatTable>
