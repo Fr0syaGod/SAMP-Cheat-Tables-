@@ -32,4 +32,5 @@ Cheat engine table SAMP R1-R4
 ##  Update
 
 v1.1 add NoRecoil (by SR_team)
+
 v1.3 add Suicide, Aim in car, RefreshRate
