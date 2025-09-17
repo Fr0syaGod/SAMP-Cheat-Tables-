@@ -27,7 +27,6 @@ Cheat engine table SAMP R1-R4
  
  ## My Contact 
  
-[VK](https://vk.com/id435152241).
 
 ##  Update
 
